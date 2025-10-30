@@ -1,0 +1,9 @@
+
+table td{
+    vertical-align: middle;
+    column-span: 50px;
+}
+
+.price{
+    margin-right: 40px;
+}
